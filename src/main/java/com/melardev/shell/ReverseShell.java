@@ -1,4 +1,4 @@
-package co.melardev.shell;
+package com.melardev.shell;
 
 import java.io.*;
 import java.net.InetAddress;
